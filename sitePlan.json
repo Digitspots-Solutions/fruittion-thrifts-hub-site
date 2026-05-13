@@ -1,0 +1,42 @@
+{
+  "businessName": "Fruittion Thrifts Hub",
+  "industry": "Fashion and Creative Design",
+  "tone": "friendly",
+  "tagline": "Where Style Meets Affordability",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Fruittion Thrifts Hub – your premier destination for quality pre-loved fashion and creative design in Nsukka. Discover unique pieces that express your personality without breaking the bank. From trendy outfits to timeless classics, we bring you the best curated thrift selections in Enugu State.",
+      "imagePrompt": "Modern Nigerian fashion boutique interior with colorful racks of stylish clothing, warm natural lighting streaming through large windows, young fashionable Nigerian shoppers browsing trendy clothes, vibrant fabrics in rich African prints and contemporary styles, welcoming atmosphere, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Fruittion Thrifts Hub is Nsukka's trusted name in quality pre-loved fashion and creative design. Located in the heart of Nsukka, Enugu State, we're passionate about making fashion accessible to everyone. Our carefully curated collection features everything from everyday essentials to statement pieces that turn heads. We believe that great style shouldn't cost a fortune, and sustainability shouldn't be a luxury. Whether you're a student at UNN looking for campus chic, a professional seeking smart casual wear, or a fashion enthusiast hunting for unique finds, we've got something special waiting for you. Visit us and experience the joy of discovering your next favorite outfit.",
+      "imagePrompt": "Bright, inviting thrift store interior in Nigeria, neatly organized clothing racks with diverse fashion items, colorful accessories displayed on walls, friendly Nigerian staff member arranging clothes, warm ambient lighting, modern boutique aesthetic mixed with approachable vibes, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "What We Offer",
+      "copy": "**Quality Thrift Fashion** - Handpicked selection of pre-loved clothing for men, women, and children. Every piece is carefully inspected for quality and style.\n\n**Creative Design Services** - Custom alterations and fashion design to help you create unique pieces or modify existing items to fit perfectly.\n\n**Style Consultation** - Not sure what works for you? Our friendly team offers free styling advice to help you put together winning looks.\n\n**Regular New Arrivals** - Fresh inventory weekly! Follow us to stay updated on the latest additions to our collection.\n\n**Affordable Prices** - Premium fashion at prices that respect your budget. Quality doesn't have to be expensive.",
+      "imagePrompt": "Collage-style image showing diverse fashion services: a Nigerian seamstress working on clothing alterations, colorful fabric swatches, a happy customer trying on clothes in a fitting room, price tags showing affordable naira amounts, modern fashion accessories arranged aesthetically, warm professional lighting, photorealistic",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Ready to refresh your wardrobe? We're conveniently located in Nsukka and excited to welcome you!\n\n**Location:** Flat 3 No.6 OFFOR M street (behind Assembly of God) Off Ibeziakor Onuiyi, Nsukka, Enugu State\n\n**Opening Hours:** Monday - Saturday: 9:00 AM - 7:00 PM | Sunday: 12:00 PM - 5:00 PM\n\n**Call or WhatsApp:** 0803 604 1455\n\nCan't visit right now? Send us a WhatsApp message and we'll share our latest arrivals with you. We also offer delivery within Nsukka for your convenience!",
+      "imagePrompt": "Welcoming Nigerian boutique storefront in Nsukka, clear signage for Fruittion Thrifts Hub, lush greenery around, well-maintained building facade, customers walking in through glass doors, daytime, clean modern aesthetic, Nsukka town atmosphere, photorealistic, inviting ambiance",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0803 604 1455",
+    "email": "",
+    "address": "Flat 3 No.6 OFFOR M street (behind Assembly of God) Off Ibeziakor Onuiyi, Nsukka, Enugu State",
+    "whatsapp": "https://wa.me/2348036041455"
+  }
+}
