@@ -1,41 +1,41 @@
 {
-  "businessName": "Fruittion Thrifts Hub",
-  "industry": "Fashion and Creative Design",
-  "tone": "friendly",
-  "tagline": "Where Style Meets Affordability",
+  "businessName": "Kingsford Media Embedded Finance Co",
+  "industry": "Fintech",
+  "tone": "professional",
+  "tagline": "Powering Seamless Digital Payments Across Nigeria",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "Welcome to Fruittion Thrifts Hub – your premier destination for quality pre-loved fashion and creative design in Nsukka. Discover unique pieces that express your personality without breaking the bank. From trendy outfits to timeless classics, we bring you the best curated thrift selections in Enugu State.",
-      "imagePrompt": "Modern Nigerian fashion boutique interior with colorful racks of stylish clothing, warm natural lighting streaming through large windows, young fashionable Nigerian shoppers browsing trendy clothes, vibrant fabrics in rich African prints and contemporary styles, welcoming atmosphere, photorealistic, high quality",
+      "copy": "Transform Your Business with Embedded Finance Solutions\n\nKingsford Media Embedded Finance Co delivers enterprise-grade payment gateway integration and API banking solutions tailored for Nigerian businesses. From startups to established enterprises, we provide the infrastructure you need to accept payments, manage transactions, and scale with confidence.\n\nGet Started Today",
+      "imagePrompt": "Modern Nigerian fintech office environment with sleek glass surfaces, digital payment terminals, mobile banking interfaces on screens, professional African business people in smart casual attire collaborating, Lagos skyline visible through windows, warm natural lighting, photorealistic, high resolution, contemporary tech atmosphere",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "Fruittion Thrifts Hub is Nsukka's trusted name in quality pre-loved fashion and creative design. Located in the heart of Nsukka, Enugu State, we're passionate about making fashion accessible to everyone. Our carefully curated collection features everything from everyday essentials to statement pieces that turn heads. We believe that great style shouldn't cost a fortune, and sustainability shouldn't be a luxury. Whether you're a student at UNN looking for campus chic, a professional seeking smart casual wear, or a fashion enthusiast hunting for unique finds, we've got something special waiting for you. Visit us and experience the joy of discovering your next favorite outfit.",
-      "imagePrompt": "Bright, inviting thrift store interior in Nigeria, neatly organized clothing racks with diverse fashion items, colorful accessories displayed on walls, friendly Nigerian staff member arranging clothes, warm ambient lighting, modern boutique aesthetic mixed with approachable vibes, photorealistic",
+      "copy": "Who We Are\n\nKingsford Media Embedded Finance Co (also known as Kingsford Media API Banking Limited) is a forward-thinking fintech company based in Nsukka, Enugu State. Founded and led by experienced payment gateway engineers, we specialize in delivering robust embedded finance solutions that empower Nigerian businesses to thrive in the digital economy.\n\nOur mission is simple: to make digital payments accessible, secure, and seamless for businesses of all sizes across Nigeria. We understand the unique challenges of the Nigerian market and have built our solutions from the ground up to address them.\n\nWith deep technical expertise in payment systems, API integration, and financial technology infrastructure, we serve as your trusted partner in navigating the complex landscape of digital finance.",
+      "imagePrompt": "Professional Nigerian fintech team in modern office space, diverse group of software engineers and financial experts working on multiple monitors displaying code and payment dashboards, Nsukka landscape elements subtly incorporated, natural daylight, collaborative atmosphere, photorealistic, corporate yet approachable",
       "layout": "split"
     },
     {
       "id": "services",
-      "name": "What We Offer",
-      "copy": "**Quality Thrift Fashion** - Handpicked selection of pre-loved clothing for men, women, and children. Every piece is carefully inspected for quality and style.\n\n**Creative Design Services** - Custom alterations and fashion design to help you create unique pieces or modify existing items to fit perfectly.\n\n**Style Consultation** - Not sure what works for you? Our friendly team offers free styling advice to help you put together winning looks.\n\n**Regular New Arrivals** - Fresh inventory weekly! Follow us to stay updated on the latest additions to our collection.\n\n**Affordable Prices** - Premium fashion at prices that respect your budget. Quality doesn't have to be expensive.",
-      "imagePrompt": "Collage-style image showing diverse fashion services: a Nigerian seamstress working on clothing alterations, colorful fabric swatches, a happy customer trying on clothes in a fitting room, price tags showing affordable naira amounts, modern fashion accessories arranged aesthetically, warm professional lighting, photorealistic",
+      "name": "Our Services",
+      "copy": "Comprehensive Fintech Solutions\n\nPayment Gateway Integration\nSeamlessly integrate secure payment processing into your website or mobile application. Accept cards, bank transfers, USSD, and mobile money with a single API. Built for Nigerian businesses, optimized for Nigerian banks.\n\nAPI Banking Solutions\nLeverage our robust banking APIs to build custom financial products. Access real-time account information, initiate transfers, verify accounts, and manage transactions programmatically with enterprise-grade security.\n\nEmbedded Finance Infrastructure\nEmbed financial services directly into your platform. From digital wallets to virtual accounts, we provide the technical backbone for businesses looking to offer financial services to their customers.\n\nPayment Gateway Engineering\nCustom payment gateway development and optimization services. Whether you need a white-label solution or technical consulting to enhance your existing infrastructure, our engineers deliver scalable, compliant solutions.\n\nTechnical Integration Support\nFull-service technical support from initial integration through go-live and beyond. Our engineering team ensures smooth implementation, thorough testing, and ongoing optimization of your payment systems.\n\nCompliance & Security Consulting\nNavigate CBN regulations, PCI-DSS requirements, and financial technology compliance standards. We help you build secure, compliant systems that protect your business and your customers.",
+      "imagePrompt": "Grid layout showcasing fintech services: API code on monitors, payment terminal processing transaction, mobile banking app interface, security shield icons, Nigerian naira symbols, data encryption visualization, modern tech icons, clean professional design, photorealistic technology photography, vibrant yet corporate color scheme",
       "layout": "grid"
     },
     {
       "id": "contact",
-      "name": "Visit Us Today",
-      "copy": "Ready to refresh your wardrobe? We're conveniently located in Nsukka and excited to welcome you!\n\n**Location:** Flat 3 No.6 OFFOR M street (behind Assembly of God) Off Ibeziakor Onuiyi, Nsukka, Enugu State\n\n**Opening Hours:** Monday - Saturday: 9:00 AM - 7:00 PM | Sunday: 12:00 PM - 5:00 PM\n\n**Call or WhatsApp:** 0803 604 1455\n\nCan't visit right now? Send us a WhatsApp message and we'll share our latest arrivals with you. We also offer delivery within Nsukka for your convenience!",
-      "imagePrompt": "Welcoming Nigerian boutique storefront in Nsukka, clear signage for Fruittion Thrifts Hub, lush greenery around, well-maintained building facade, customers walking in through glass doors, daytime, clean modern aesthetic, Nsukka town atmosphere, photorealistic, inviting ambiance",
+      "name": "Get In Touch",
+      "copy": "Ready to Transform Your Payment Infrastructure?\n\nWhether you're launching a new platform or optimizing existing payment systems, Kingsford Media Embedded Finance Co is here to help. Our team of payment gateway engineers is ready to discuss your specific needs and design a solution that works for your business.\n\nSchedule a Consultation\nLet's discuss how our embedded finance solutions can accelerate your business growth. Reach out today for a technical consultation.\n\nLocation: Flat 3 No.6 OFFOR M street (behind Assembly of God) Off Ibeziakor Onuiyi, Nsukka, Enugu State\n\nBusiness Hours: Monday - Friday, 9:00 AM - 5:00 PM WAT",
+      "imagePrompt": "Modern Nigerian business contact scene, professional office reception area in Nsukka with contemporary furniture, digital screen showing contact information, map of Nigeria with Enugu State highlighted, smartphone displaying WhatsApp business chat, welcoming atmosphere, natural lighting through windows, photorealistic, warm professional environment",
       "layout": "centered"
     }
   ],
   "contact": {
-    "phone": "0803 604 1455",
-    "email": "",
+    "phone": "+2348036041455",
+    "email": "info@kingsfordmedia.org",
     "address": "Flat 3 No.6 OFFOR M street (behind Assembly of God) Off Ibeziakor Onuiyi, Nsukka, Enugu State",
     "whatsapp": "https://wa.me/2348036041455"
   }
